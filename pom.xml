@@ -19,7 +19,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <keycloak.version>4.0.0.Beta1</keycloak.version>
+        <keycloak.version>13.0.0</keycloak.version>
         <lombok.version>1.16.10</lombok.version>
         <spring.boot.version>1.5.10.RELEASE</spring.boot.version>
         <sl4j.version>1.7.25</sl4j.version>
